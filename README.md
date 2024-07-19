@@ -51,21 +51,14 @@ I am Harsh Raithatha, an experienced backend developer and educator based in Jam
 
 ---
 
-### Projects
 
-- **[Project Name](project-link)**: Brief description of what the project is about.
-- **[Project Name](project-link)**: Brief description of what the project is about.
-
----
 
 ### Contact
 
 - **Email**: [harshraithatha0@gmail.com](mailto:harshraithatha0@gmail.com)
 - **LinkedIn**: [linkedin.com/in/raithathaharsh](https://www.linkedin.com/in/raithathaharsh)
-- **Personal Website**: [harsh-raithatha.web.app](https://harsh-raithatha.web.app/)
 
 Let's collaborate and discuss how I can contribute to your projects!
 
 ---
 
-*Generated using information from Harsh Raithatha's profile.*
