@@ -17,7 +17,7 @@ I am Harsh Raithatha, an experienced backend developer and educator based in Jam
 ### Skills
 
 - **Languages**: Python, JavaScript, PHP, SQL, C, C++, Java
-- **Frameworks and Libraries**: MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Frameworks and Libraries**: MERN Stack (MongoDB, Express.js, React, Node.js),Pandas(Python),Django
 - **Tools**: Docker
 - **Other Skills**: Web and App Testing, Android Development
 
