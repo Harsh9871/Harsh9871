@@ -2,8 +2,7 @@
 
 ## Educator & Freelance Backend Developer
 
-![Profile Picture](https://harsh-raithatha.web.app/profile-picture.jpg)
-
+Profile 
 
 [LinkedIn](https://www.linkedin.com/in/raithathaharsh) | [Personal Website](https://harsh-raithatha.web.app/) | [Email](mailto:harshraithatha0@gmail.com)
 
