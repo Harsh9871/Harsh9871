@@ -2,7 +2,7 @@
 
 ## Educator & Freelance Backend Developer
 
-![Profile](https://harsh-raithatha.web.app/profile-picture.jpg) <!-- Add a link to your profile picture here -->
+![Profile[](https://harsh-raithatha.web.app/profile-picture.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fraithathaharsh&psig=AOvVaw3ZHRbwdZObu9unKbCGP9l6&ust=1721458158162000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjR8MHBsocDFQAAAAAdAAAAABAE)) <!-- Add a link to your profile picture here -->
 
 [LinkedIn](https://www.linkedin.com/in/raithathaharsh) | [Personal Website](https://harsh-raithatha.web.app/) | [Email](mailto:harshraithatha0@gmail.com)
 
