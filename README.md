@@ -4,7 +4,7 @@
 
 Profile 
 
-[LinkedIn](https://www.linkedin.com/in/raithathaharsh) | [Personal Website](https://harsh-raithatha.web.app/) | [Email](mailto:harshraithatha0@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/raithathaharsh) | [Email](mailto:harshraithatha0@gmail.com)
 
 ---
 
