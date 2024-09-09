@@ -1,6 +1,6 @@
 # Harsh Raithatha
 
-## Educator & Freelance Backend Developer
+## Educator & Freelance Web Developer
 
 Profile 
 
@@ -38,7 +38,7 @@ I am Harsh Raithatha, an experienced backend developer and educator based in Jam
 - Shared knowledge and mentored team members.
 
 #### Web Developer Intern at Sohang Education
-*February 2024 - Present*
+*February 2024 - August 2024*
 
 - Gained practical experience in web development with a focus on Python and project management.
 
@@ -49,6 +49,8 @@ I am Harsh Raithatha, an experienced backend developer and educator based in Jam
 - **SMT. C.Z.M. GOSRANI B.C.A. COLLEGE-JAMNAGAR**
   - Bachelor's Degree in Computer Science (June 2023)
 
+- **Kendriya Vidhyalaya Dwarka**
+  - class 12 th CBSE 
 ---
 
 
