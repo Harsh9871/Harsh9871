@@ -31,11 +31,6 @@ I am Harsh Raithatha, an experienced backend developer and educator based in Jam
 - Worked on various remote projects, focusing on Docker and web testing.
 - Developed and maintained applications using Python, C, C++, JavaScript, Node.js, Express.js, PHP, and MySQL.
 
-#### Part-time Web Developer at Trio Infotech
-*October 2023 - Present*
-
-- Developed and maintained applications using a wide range of technologies.
-- Shared knowledge and mentored team members.
 
 #### Web Developer Intern at Sohang Education
 *February 2024 - August 2024*
