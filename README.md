@@ -1,6 +1,6 @@
 # Harsh Raithatha
 
-## Educator & Freelance Web Developer
+## Full Stack Developer & Freelancer
 
 Profile 
 
